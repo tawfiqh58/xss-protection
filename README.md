@@ -1,4 +1,5 @@
 # Cross Site Scripting Prevention Cheat Sheet
+read more: [`mozilla-web-security-guide`](https://infosec.mozilla.org/guidelines/web_security.html)
 
 ## Introduction
 
