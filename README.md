@@ -1,5 +1,5 @@
 # Cross Site Scripting Prevention Cheat Sheet
-read more: [`mozilla-web-security-guide`](https://infosec.mozilla.org/guidelines/web_security.html)
+read more: [`mozilla-web-security-guide`](https://infosec.mozilla.org/guidelines/web_security.html) and  [`ruby-on-rails`](https://guides.rubyonrails.org/security.html)
 
 ## Introduction
 
